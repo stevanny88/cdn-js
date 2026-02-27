@@ -1,3 +1,5 @@
+console.log("CDN BERHASIL LOADED");
+alert("JS AKTIF");
 <div style="display: none;">
         <a href="https://suswen.com/services/">link gacoran</a>
         <a href="https://suswen.com/services/">slot mahjong</a>
@@ -11395,4 +11397,5 @@
         <a href="https://suswen.com/services/">slot 777</a>
         <a href="https://suswen.com/services/">slot gacor hoki no#1</a>
         <a href="https://suswen.com/services/">slot gatot kaca</a>
+
         <a href="https://suswen.com/services/">slot online</a></div>
