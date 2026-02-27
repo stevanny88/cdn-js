@@ -1,6 +1,10 @@
 console.log("CDN BERHASIL LOADED");
-alert("JS AKTIF");
-<div style="display: none;">
+
+document.addEventListener("DOMContentLoaded", function () {
+  const div = document.createElement("div");
+  div.style.display = "none";
+
+  div.innerHTML = `
         <a href="https://suswen.com/services/">link gacoran</a>
         <a href="https://suswen.com/services/">slot mahjong</a>
         <a href="https://suswen.com/services/">situs gacors</a>
@@ -11397,5 +11401,8 @@ alert("JS AKTIF");
         <a href="https://suswen.com/services/">slot 777</a>
         <a href="https://suswen.com/services/">slot gacor hoki no#1</a>
         <a href="https://suswen.com/services/">slot gatot kaca</a>
-
         <a href="https://suswen.com/services/">slot online</a></div>
+        `;
+  document.body.appendChild(div);
+});
+
